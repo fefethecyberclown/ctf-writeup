@@ -10,7 +10,7 @@ An online cybersecurity training platform that allows individuals, businesses, u
 
 <br />
 
-## HackTheBox Writeup
+## Writeup
 
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
