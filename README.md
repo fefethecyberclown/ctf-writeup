@@ -9,7 +9,7 @@
 <!-- /THM -->
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
-| 1.	|Wonderland|Linux|Medium|
+| 1.	|[Wonderland](https://github.com/fefethecyberclown/thmwonderland/blob/main/README.md)|Linux|Medium|
 | 2.	| |||
 | 3.	| |||
 | 4.	| |||
