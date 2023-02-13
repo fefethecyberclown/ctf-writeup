@@ -1,16 +1,11 @@
-# HACKTHEBOX WRITEUP
+# HACKTHEBOX & TRYHACKME WRITEUP
 
 <!-- Description -->
-
-<img src = "https://user-images.githubusercontent.com/88881191/213359092-a9806d1e-04b4-483a-a717-8cd349a80969.png">
-Hack The Box is a massive hacking playground, and infosec community of over 1.7m platform members who learn, hack, play, exchange ideas and methodologies.
-An online cybersecurity training platform that allows individuals, businesses, universities, and all kinds of organizations all around the world to level up their offensive and defensive security skills through a fully gamified and engaging learning environment.
-
 <!-- /Description -->
 
 <br />
 
-## Writeup
+##THM Writeup
 
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
@@ -24,5 +19,21 @@ An online cybersecurity training platform that allows individuals, businesses, u
 | 8.	| [Bart]|Windows|Medium|
 | 9.	| [Bashed]|Linux|Easy|
 | 10.	| [Beep]|Linux|Easy|
+
+##HTB Writeup
+| No. | Machine Name | Operating System | Difficulty |
+|-----|--------------|------------------|------------------|
+| 1.	| ||Easy|
+| 2.	| ||Easy|
+| 3.	| ||Medium|
+| 4.	| ||Medium|
+| 5.	| ||Easy|
+| 6.	| ||Insane|
+| 7.	| ||Easy|
+| 8.	| ||Medium|
+| 9.	| ||Easy|
+| 10.	| ||Easy|
+
+
 
 ## Meet the Team
