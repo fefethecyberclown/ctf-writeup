@@ -6,7 +6,7 @@
 <br />
 
 ##THM Writeup
-
+<!-- /THM -->
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
 | 1.	| ||Medium|
@@ -19,6 +19,8 @@
 | 8.	| |||
 | 9.	| |||
 | 10.	| |||
+
+<!-- /HTB -->
 ##HTB Writeup
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
